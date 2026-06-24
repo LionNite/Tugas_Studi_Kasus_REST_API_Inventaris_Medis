@@ -1,4 +1,11 @@
 # 🛡️ Medical Inventory REST API: Prompt Engineering & Security Case Study
+| Keterangan | Detail |
+| :--- | :--- |
+| **Nama** | Erastus Liubeta Septian |
+| **NIM** | 103072400020 |
+| **Kelas** | IF-04-01 |
+| **Program Studi** | Informatika |
+| **Universitas** | Telkom University Surabaya |
 
 Repositori ini berisi artefak perangkat lunak (REST API Backend) untuk sistem Inventaris Medis Rumah Sakit. Proyek ini bukanlah sekadar aplikasi CRUD biasa, melainkan sebuah **studi kasus eksplorasi Keamanan AI dan Prompt Engineering**.
 
